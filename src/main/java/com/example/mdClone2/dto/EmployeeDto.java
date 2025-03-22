@@ -1,8 +1,8 @@
 package com.example.mdClone2.dto;
 
-import com.example.mdClone.entity.Manager;
-import com.example.mdClone.entity.Timesheet;
-import com.example.mdClone.utils.Person;
+import com.example.mdClone2.entity.Manager;
+import com.example.mdClone2.entity.Person;
+import com.example.mdClone2.entity.Timesheet;
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import jakarta.validation.constraints.NotEmpty;
 import lombok.Data;

@@ -1,6 +1,6 @@
 package com.example.mdClone2.dto;
 
-import com.example.mdClone.utils.Person;
+import com.example.mdClone2.entity.Person;
 import jakarta.validation.constraints.NotEmpty;
 import lombok.Data;
 
